@@ -1,0 +1,15 @@
+img {
+	width:30%;
+	height:30%;
+	float:left;
+	margin:1.667%;
+}
+p{
+	margin:1.667%;
+	font-family: 'Molle', cursive;
+	font-size: 30px;
+}
+hr{
+	margin:1.667%;
+	width:30%;
+}
